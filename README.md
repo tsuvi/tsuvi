@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tsuvi
+- 👋 Hi, I’m @tsuvic
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, TypeScript, Vue3
+- 🌱 I’m currently learning Java, TypeScript, Vue.js
 - 📫 How to reach me = pls send me DM
 
 <!---
